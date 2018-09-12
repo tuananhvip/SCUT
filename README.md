@@ -15,6 +15,8 @@
 ## Kho tài liệu tham khảo, báo chí đã được mua
 - IEEE:
 - ....
+## Tài liệu có thể download luôn
+- Hướng dẫn viết bài báo khoa học: [Download](#)
 
 # Tiến sỹ
 ## Nhập học
