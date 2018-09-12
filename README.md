@@ -12,7 +12,7 @@
 - Phần mềm phiên dịch
 - VPN
 - Phần mềm quản lý tài liệu tham khảo
-## Kho tài liệu tham khảo, bái chí đã được mua
+## Kho tài liệu tham khảo, báo chí đã được mua
 - IEEE:
 - ....
 
