@@ -9,8 +9,13 @@
 # Chung các ngành, các cấp bậc
 ## Các phần mềm cần thiết
 - Phần mềm học tiếng
+  - xxx
 - Phần mềm phiên dịch
-- VPN
+  - Google Translater
+  - Baidu translater
+- VPN cho Android:
+  - Turbo VPN [download](#)
+  - Master VPN [download](#)
 - Phần mềm quản lý tài liệu tham khảo
 ## Kho tài liệu tham khảo, báo chí đã được mua
 - IEEE:
