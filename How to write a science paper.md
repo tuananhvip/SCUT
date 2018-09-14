@@ -1,4 +1,5 @@
-# How to write a science paper? - Cách viết một bài báo khoa học
+# How to write a science paper? 
+# Cách viết một bài báo khoa học
 ## Cấu trúc:
 Một bài báo khoa học gồm các phần sau:
   1. Tittle
