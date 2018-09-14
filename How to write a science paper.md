@@ -28,7 +28,9 @@ Phần này gồm 3-4 nội dung:
   4. Discussion: Thảo luận thêm về ưu điểm của phương pháp (nếu cần)
 
 ## Introduction
-Tại sao làm nghiên cứu này?
+[Tham khảo]:https://tuanvannguyen.blogspot.com/2016/08/bai-bao-khoa-hoc-cach-viet-phan-dan-nhap.html
+
+Phải trả lời cho bằng được câu hỏi: __Tại sao làm nghiên cứu này?__ 
   - Định nghĩa vấn đề (gọi tên vấn đề của chúng ta là X); 
     - Định nghĩa X (vì người ngài ngành có thể không biết X là gì
     - Tầm quan trọng của X ra sao (câu này để nhấn mạnh đây là vấn đề lớn, và vì lớn nên phải công bố trên các tập san lớn!)
