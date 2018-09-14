@@ -28,7 +28,7 @@ Phần này gồm 3-4 nội dung:
   4. Discussion: Thảo luận thêm về ưu điểm của phương pháp (nếu cần)
 
 ## Introduction
-Nguồn tham khảo: [tuan's blog](https://tuanvannguyen.blogspot.com/2016/08/bai-bao-khoa-hoc-cach-viet-phan-dan-nhap.html) [Tủ sách khoa học](https://tusach.thuvienkhoahoc.com/wiki/C%C3%A1ch_vi%E1%BA%BFt_m%E1%BB%99t_b%C3%A0i_b%C3%A1o_khoa_h%E1%BB%8Dc_(D%E1%BA%ABn_nh%E1%BA%ADp))    
+Nguồn tham khảo: [tuan's blog](https://tuanvannguyen.blogspot.com/2016/08/bai-bao-khoa-hoc-cach-viet-phan-dan-nhap.html), [Tủ sách khoa học](https://tusach.thuvienkhoahoc.com/wiki/C%C3%A1ch_vi%E1%BA%BFt_m%E1%BB%99t_b%C3%A0i_b%C3%A1o_khoa_h%E1%BB%8Dc_(D%E1%BA%ABn_nh%E1%BA%ADp))    
 Phải trả lời cho bằng được câu hỏi: __Tại sao làm nghiên cứu này?__ 
   - Định nghĩa vấn đề (gọi tên vấn đề của chúng ta là X); 
     - Định nghĩa X (vì người ngài ngành có thể không biết X là gì
