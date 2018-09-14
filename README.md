@@ -27,7 +27,7 @@
 - App, số điện thoại tham khảo:
   - APP:
     - App đặt vé máy bay, tàu hoả: 携程旅行 /Xiéchéng lǚxíng/ (Ctrip): hình con cá voi; 去哪 /Qù nǎ/
-    - Vietnam airline: 18218880930 (Trần Huy Công)
+    - Vietnam airline: 1821 888 0930 (Trần Huy Công)
   - Quảng châu <=> bằng tường:
     - Đặt vé tàu/máy bay: Ngọc Lan: wechat ID: lanngoc1
     - Nhà xe Trường: GZ=> bằng tường: 135 2768 1092, 134 2446 2581
