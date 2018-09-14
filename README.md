@@ -27,10 +27,12 @@
     - Vietnam airline: 18218880930 (Trần Huy Công)
   - Quảng châu <=> bằng tường:
     - Đặt vé tàu/máy bay: Ngọc Lan: wechat ID: lanngoc1
-    - Nhà xe trường: GZ=> bằng tường: 135 2768 1092, 134 2446 2581
+    - Nhà xe Trường: GZ=> bằng tường: 135 2768 1092, 134 2446 2581
+    - xe ... Bến xe Việt tú nam: 1567 603 2188
   - Xe tại Việt Nam:
     - Xe Tuấn Huyền: Lạng sơn <=> Thái nguyên: 0164 668 9677
     - Xe Khánh Hằng: Lạng sơn <=> Thái nguyên: 097 296 8355
+    
 ## Các phần mềm cần thiết
 - Phần mềm học tiếng
   - xxx
