@@ -38,9 +38,9 @@ Tại sao làm nghiên cứu này?
       
   - Những gì đã được làm để giải quyết vấn đề; 
   - Tóm lược những kết quả trước đã được công bố trong y văn (Công trình đã công bố trước đây) 
-    - *Tuy trình bày thông tin quá khứ, nhưng phải là những câu chữ của chính tác giả, chứ không phải trích dẫn quá nhiều hay lặp lại câu chữ của người đi trước.
-    - Tất cả những thông tin trong phần dẫn nhập phải ăn khớp với tài liệu tham khảo. 
-    - Tác giả nên có những tài liệu tham khảo đó, chứ không nên trích dẫn theo những những bài báo trong y văn (secondary citation).* 
+    - *Tuy trình bày thông tin quá khứ, nhưng phải là những câu chữ của chính tác giả, chứ không phải trích dẫn quá nhiều hay lặp lại câu chữ của người đi trước.*
+    - *Tất cả những thông tin trong phần dẫn nhập phải ăn khớp với tài liệu tham khảo.*
+    - *Tác giả nên có những tài liệu tham khảo đó, chứ không nên trích dẫn theo những những bài báo trong y văn (secondary citation).* 
   - Mục đích của nghiên cứu này là gì.
 
 ### Cách viết:
