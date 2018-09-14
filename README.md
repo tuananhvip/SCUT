@@ -62,4 +62,13 @@
 # Thạc sỹ
 # Đại học
 # Học tiếng
+# Khác
+```python
+# This is some Python code!
+def CNN(nb_class=6):
+    input_shape = (1, 20, 94)
+    melgram_input = Input(shape=input_shape)
+    channel_axis = 3
+
+```
 
