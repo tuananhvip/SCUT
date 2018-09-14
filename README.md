@@ -9,7 +9,7 @@
 - [Thạc sỹ](https://github.com/tuananhvip/SCUT#th%E1%BA%A1c-s%E1%BB%B9)
 - [Đại học](https://github.com/tuananhvip/SCUT#%C4%90%E1%BA%A1i-h%E1%BB%8Dc)
 - [Học tiếng](https://github.com/tuananhvip/SCUT#h%E1%BB%8Dc-ti%E1%BA%BFng-1)
-
+- [Khác](https://github.com/tuananhvip/SCUT#kh%C3%A1c)
 # Chung các ngành, các cấp bậc
 - Lịch công việc theo tháng:
     - Tháng 1:
@@ -63,12 +63,5 @@
 # Đại học
 # Học tiếng
 # Khác
-```python
-# This is some Python code!
-def CNN(nb_class=6):
-    input_shape = (1, 20, 94)
-    melgram_input = Input(shape=input_shape)
-    channel_axis = 3
 
-```
 
