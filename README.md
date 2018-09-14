@@ -1,11 +1,14 @@
 # Các thông tin vô cùng quan trọng khi học tại SCUT
 ## Mục lục
-- Chung các ngành, các cấp bậc
+- [Chung các ngành, các cấp bậc](https://github.com/tuananhvip/SCUT#chung-c%C3%A1c-ng%C3%A0nh-c%C3%A1c-c%E1%BA%A5p-b%E1%BA%ADc)
   - Lịch về/sang hàng năm
-- Tiến sỹ
-- Thạc sỹ
-- Đại học
-- Học tiếng
+- [Các phần mềm cần thiết](https://github.com/tuananhvip/SCUT#c%C3%A1c-ph%E1%BA%A7n-m%E1%BB%81m-c%E1%BA%A7n-thi%E1%BA%BFt)
+- [Kho tài liệu tham khảo](https://github.com/tuananhvip/SCUT#kho-t%C3%A0i-li%E1%BB%87u-tham-kh%E1%BA%A3o-b%C3%A1o-ch%C3%AD-%C4%91%C3%A3-%C4%91%C6%B0%E1%BB%A3c-mua)
+-[Tài liệu có thể download luôn](https://github.com/tuananhvip/SCUT#t%C3%A0i-li%E1%BB%87u-c%C3%B3-th%E1%BB%83-download-lu%C3%B4n)
+- [Tiến sỹ](https://github.com/tuananhvip/SCUT#ti%E1%BA%BFn-s%E1%BB%B9)
+- [Thạc sỹ](https://github.com/tuananhvip/SCUT#th%E1%BA%A1c-s%E1%BB%B9)
+- [Đại học](https://github.com/tuananhvip/SCUT#%C4%90%E1%BA%A1i-h%E1%BB%8Dc)
+- [Học tiếng](https://github.com/tuananhvip/SCUT#h%E1%BB%8Dc-ti%E1%BA%BFng-1)
 
 # Chung các ngành, các cấp bậc
 - Lịch công việc theo tháng:
