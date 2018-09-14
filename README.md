@@ -9,20 +9,28 @@
 
 # Chung các ngành, các cấp bậc
 - Lịch công việc theo tháng:
-    - Tháng1:
-    - Tháng2:
-    - Tháng3:
-    - Tháng4:
-    - Tháng5:
-    - Tháng6:
-    - Tháng7:
-    - Tháng8:
-    - Tháng9: Đầu tháng đặt vé, nghỉ lễ ngày 1/10-10/10 (có thể du di ít), lý này vé máy bay đang rẻ, chú ý săn khuyến mại
-    - Tháng10:
-    - Tháng11:
-    - Tháng12:
-  
-  
+    - Tháng 1:
+    - Tháng 2:
+    - Tháng 3:
+    - Tháng 4:
+    - Tháng 5:
+    - Tháng 6:
+    - Tháng 7:
+    - Tháng 8:
+    - Tháng 9: Đầu tháng đặt vé, nghỉ lễ ngày 1/10-10/10 (có thể du di ít), lý này vé máy bay đang rẻ, chú ý săn khuyến mại
+    - Tháng 10:
+    - Tháng 11:
+    - Tháng 12: 
+- App, số điện thoại tham khảo:
+  - APP:
+    - App đặt vé máy bay, tàu hoả: 携程旅行 /Xiéchéng lǚxíng/ (Ctrip): hình con cá voi; 去哪 /Qù nǎ/
+    - Vietnam airline: 18218880930 (Trần Huy Công)
+  - Quảng châu <=> bằng tường:
+    - Đặt vé tàu/máy bay: Ngọc Lan: wechat ID: lanngoc1
+    - Nhà xe trường: GZ=> bằng tường: 135 2768 1092, 134 2446 2581
+  - Xe tại Việt Nam:
+    - Xe Tuấn Huyền: Lạng sơn <=> Thái nguyên: 0164 668 9677
+    - Xe Khánh Hằng: Lạng sơn <=> Thái nguyên: 097 296 8355
 ## Các phần mềm cần thiết
 - Phần mềm học tiếng
   - xxx
