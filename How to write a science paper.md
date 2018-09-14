@@ -28,6 +28,7 @@ Phần này gồm 3-4 nội dung:
   4. Discussion: Thảo luận thêm về ưu điểm của phương pháp (nếu cần)
 
 ## Introduction
+[Tham khảo](https://tuanvannguyen.blogspot.com/2016/08/bai-bao-khoa-hoc-cach-viet-phan-dan-nhap.html）
 Phải trả lời cho bằng được câu hỏi: __Tại sao làm nghiên cứu này?__ 
   - Định nghĩa vấn đề (gọi tên vấn đề của chúng ta là X); 
     - Định nghĩa X (vì người ngài ngành có thể không biết X là gì
@@ -51,7 +52,7 @@ Phải trả lời cho bằng được câu hỏi: __Tại sao làm nghiên cứ
 - Về văn phạm, phần dẫn nhập nên viết bằng thì quá khứ, nhất là khi mô tả những kết quả trong quá khứ. Tuy nhiên, khi đề cập đến những thông tin mang tính cổ điển mà được cộng đồng chuyên ngành chấp nhận, tác giả có thể dùng thì hiện tại.
 - Phần dẫn nhập của một bài báo chỉ nên giới hạn trong vòng 1 trang A4. Điều quan trọng nhất là sau khi đọc xong phần dẫn nhập, người đọc biết được tầm quan trọng của nghiên cứu, và tại sao tác giả làm nghiên cứu.   
 
-[Tham khảo]（https://tuanvannguyen.blogspot.com/2016/08/bai-bao-khoa-hoc-cach-viet-phan-dan-nhap.html）
+
 
 
 
