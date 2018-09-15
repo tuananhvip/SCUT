@@ -11,7 +11,7 @@
    * [Viết báo](#viết-báo)  
    * [Viết Luận án](#viết-luận-án)  
 - [Thạc sỹ](#thạc-sỹ)  
-- [Đại học](#đại-học)  
+- [Đại học](#Đại-học)  
 - [Học tiếng](#học-tiếng)  
 - [Khác](#khác)  
 ---
