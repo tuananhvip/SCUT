@@ -3,7 +3,7 @@
  Tổng hợp:  
  - **Nguyễn Tuấn Anh**, NT.Anh@tnut.edu.vn <br/>
   Nghiên cứu sinh trường ĐH Công nghệ Hoa Nam, Quảng châu, Trung Quốc, 2018  
- 
+## Mục Lục
 - [How to write a science paper? Cách viết một bài báo khoa học](#how-to-write-a-science-paper--c-ch-vi-t-m-t-b-i-b-o-khoa-h-c)
 - [Bước 1: Chuẩn bị tâm thế](#b--c-1--chu-n-b--t-m-th-)
   * [Trả lời các câu hỏi sau:](#tr--l-i-c-c-c-u-h-i-sau-)
@@ -20,7 +20,7 @@
   * [Abstract](#abstract)
   * [Introduction](#introduction)
     + [Cách viết:](#c-ch-vi-t-)
-
+---
 
 # Bước 1: Chuẩn bị tâm thế
 ## Trả lời các câu hỏi sau:
