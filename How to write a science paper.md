@@ -145,7 +145,22 @@ Phải trả lời cho bằng được câu hỏi: __Tại sao làm nghiên cứ
 
 
 
-[link to other page](README.md?#chung-c%C3%A1c-ng%C3%A0nh-c%C3%A1c-c%E1%BA%A5p-b%E1%BA%ADc)
-
+- [Các thông tin vô cùng quan trọng khi học tại SCUT](README.md?#các-thông-tin-vô-cùng-quan-trọng-khi-học-tại-scut)  
+   * [Mục lục](README.md?#mục-lục)  
+- [Chung các ngành, các cấp bậc](README.md?#chung-các-ngành-các-cấp-bậc)  
+   * [Các phần mềm cần thiết](README.md?#các-phần-mềm-cần-thiết)  
+   * [Kho tài liệu tham khảo, báo chí đã được mua](README.md?#kho-tài-liệu-tham-khảo-báo-chí-đã-được-mua)  
+   * [Tài liệu có thể download luôn](README.md?#tài-liệu-có-thể-download-luôn)  
+- [Tiến sỹ](README.md?#tiến-sỹ)  
+   * [Nhập học](README.md?#nhập-học)  
+   * [Học Tiếng](README.md?#học-tiếng)  
+   * [Bảo vệ đề cương](README.md?#bảo-vệ-đề-cương)  
+   * [Viết báo](README.md?#viết-báo)  
+   * [Viết Luận án](README.md?#viết-luận-án)  
+- [Thạc sỹ](README.md?#thạc-sỹ)  
+- [Đại học](README.md?#đại-học)  
+- [Học tiếng](README.md?#học-tiếng)  
+- [Khác](README.md?#khác)  
+---
 
 
