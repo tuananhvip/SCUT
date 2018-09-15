@@ -4,22 +4,22 @@
  - **Nguyễn Tuấn Anh**, NT.Anh@tnut.edu.vn <br/>
   Nghiên cứu sinh trường ĐH Công nghệ Hoa Nam, Quảng châu, Trung Quốc, 2018  
 ## Mục Lục
-- [How to write a science paper? Cách viết một bài báo khoa học](#how-to-write-a-science-paper--c-ch-vi-t-m-t-b-i-b-o-khoa-h-c)
-- [Bước 1: Chuẩn bị tâm thế](#Bước-1-Chuẩn-bị-tâm-thế-trước-khi-viết-báo)
-  * [Trả lời các câu hỏi sau:](#tr--l-i-c-c-c-u-h-i-sau-)
-  * [Nhà phản biện, họ hỏi cái gì?](#nh--ph-n-bi-n--h--h-i-c-i-g--)
-  * [Xem ranking các jounals ở đâu?](#xem-ranking-c-c-jounals-----u-)
-  * [Các chuẩn bị khác](#c-c-chu-n-b--kh-c)
-- [Bước 2: Thực thi](#b--c-2--th-c-thi)
-  * [Cấu trúc:](#c-u-tr-c-)
-  * [Tittle](#tittle)
-    + [Cách đặt tên 1 bài báo?](#c-ch---t-t-n-1-b-i-b-o-)
+- [how to write a science paper? cách viết một bài báo khoa học](#how-to-write-a-science-paper--c-ch-vi-t-m-t-b-i-b-o-khoa-h-c)
+- [bước 1: chuẩn bị tâm thế trước khi viết báo](#b--c-1--chu-n-b--t-m-th--tr--c-khi-vi-t-b-o)
+  * [trả lời các câu hỏi sau:](#tr--l-i-c-c-c-u-h-i-sau-)
+  * [nhà phản biện, họ hỏi cái gì?](#nh--ph-n-bi-n--h--h-i-c-i-g--)
+  * [xem ranking các jounals ở đâu?](#xem-ranking-c-c-jounals-----u-)
+  * [các chuẩn bị khác](#c-c-chu-n-b--kh-c)
+- [bước 2: thực thi](#b--c-2--th-c-thi)
+  * [cấu trúc:](#c-u-tr-c-)
+  * [tittle](#tittle)
+    + [cách đặt tên 1 bài báo?](#c-ch---t-t-n-1-b-i-b-o-)
       - [ví dụ 1](#v--d--1)
-      - [Ví dụ 2](#v--d--2)
-      - [Ví dụ 3](#v--d--3)
-  * [Abstract](#abstract)
-  * [Introduction](#introduction)
-    + [Cách viết:](#c-ch-vi-t-)
+      - [ví dụ 2](#v--d--2)
+      - [ví dụ 3](#v--d--3)
+  * [abstract](#abstract)
+  * [introduction](#introduction)
+    + [cách viết:](#c-ch-vi-t-)
 ---
 
 # Bước 1: Chuẩn bị tâm thế trước khi viết báo
