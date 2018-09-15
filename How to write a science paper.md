@@ -5,22 +5,22 @@
   Nghiên cứu sinh trường ĐH Công nghệ Hoa Nam, Quảng châu, Trung Quốc, 2018  
 ## Mục Lục
 -[How to write a science paper? Cách viết một bài báo khoa học](#how-to-write-a-science-paper-cách-viết-một-bài-báo-khoa-học) <br/>
-  -[Mục Lục](#mục-lục) <br/>
+  *[Mục Lục](#mục-lục) <br/>
 -[Bước 1: Chuẩn bị tâm thế trước khi viết báo](#bước-1-chuẩn-bị-tâm-thế-trước-khi-viết-báo) <br/>
-  -[Trả lời các câu hỏi sau:](#trả-lời-các-câu-hỏi-sau) <br/>
-  -[Nhà phản biện, họ hỏi cái gì?](#nhà-phản-biện-họ-hỏi-cái-gì) <br/>
-  -[Xem ranking các jounals ở đâu?](#xem-ranking-các-jounals-ở-đâu) <br/>
-  -[Các chuẩn bị khác](#các-chuẩn-bị-khác) <br/>
+  *[Trả lời các câu hỏi sau:](#trả-lời-các-câu-hỏi-sau) <br/>
+  *[Nhà phản biện, họ hỏi cái gì?](#nhà-phản-biện-họ-hỏi-cái-gì) <br/>
+  *[Xem ranking các jounals ở đâu?](#xem-ranking-các-jounals-ở-đâu) <br/>
+  *[Các chuẩn bị khác](#các-chuẩn-bị-khác) <br/>
 -[Bước 2: Thực thi](#bước-2-thực-thi) <br/>
-  -[Cấu trúc:](#cấu-trúc) <br/>
-  -[Tittle](#tittle) <br/>
-    -[Cách đặt tên 1 bài báo?](#cách-đặt-tên-1-bài-báo) <br/>
+  *[Cấu trúc:](#cấu-trúc) <br/>
+  *[Tittle](#tittle) <br/>
+    +[Cách đặt tên 1 bài báo?](#cách-đặt-tên-1-bài-báo) <br/>
       -[ví dụ 1](#ví-dụ-1) <br/>
       -[Ví dụ 2](#ví-dụ-2) <br/>
       -[Ví dụ 3](#ví-dụ-3) <br/>
-  -[Abstract](#abstract) <br/>
-  -[Introduction](#introduction) <br/>
-    -[Cách viết:](#cách-viết) <br/>
+  *[Abstract](#abstract) <br/>
+  *[Introduction](#introduction) <br/>
+    +[Cách viết:](#cách-viết) <br/>
 
 # Bước 1: Chuẩn bị tâm thế trước khi viết báo
 ## Trả lời các câu hỏi sau:
