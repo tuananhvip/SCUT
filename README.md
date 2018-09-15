@@ -71,20 +71,7 @@
 # Học tiếng
 # Khác
 
-- [Các thông tin vô cùng quan trọng khi học tại SCUT](How%20to%20write%20a%20science%20paper.md?#các-thông-tin-vô-cùng-quan-trọng-khi-học-tại-scut)  
-   * [Mục lục](How%20to%20write%20a%20science%20paper.md?#mục-lục)  
-- [Chung các ngành, các cấp bậc](How%20to%20write%20a%20science%20paper.md?#chung-các-ngành-các-cấp-bậc)  
-   * [Các phần mềm cần thiết](How%20to%20write%20a%20science%20paper.md?#các-phần-mềm-cần-thiết)  
-   * [Kho tài liệu tham khảo, báo chí đã được mua](How%20to%20write%20a%20science%20paper.md?#kho-tài-liệu-tham-khảo-báo-chí-đã-được-mua)  
-   * [Tài liệu có thể download luôn](How%20to%20write%20a%20science%20paper.md?#tài-liệu-có-thể-download-luôn)  
-- [Tiến sỹ](How%20to%20write%20a%20science%20paper.md?#tiến-sỹ)  
-   * [Nhập học](How%20to%20write%20a%20science%20paper.md?#nhập-học)  
-   * [Học Tiếng](How%20to%20write%20a%20science%20paper.md?#học-tiếng)  
-   * [Bảo vệ đề cương](How%20to%20write%20a%20science%20paper.md?#bảo-vệ-đề-cương)  
-   * [Viết báo](How%20to%20write%20a%20science%20paper.md?#viết-báo)  
-   * [Viết Luận án](How%20to%20write%20a%20science%20paper.md?#viết-luận-án)  
-- [Thạc sỹ](How%20to%20write%20a%20science%20paper.md?#thạc-sỹ)  
-- [Đại học](How%20to%20write%20a%20science%20paper.md?#đại-học)  
-- [Học tiếng](How%20to%20write%20a%20science%20paper.md?#học-tiếng)  
-- [Khác](How%20to%20write%20a%20science%20paper.md?#khác)  
----
+
+
+
+
