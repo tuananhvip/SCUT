@@ -10,7 +10,7 @@
 - Have I done something new and interesting?
 - Is there anything challenging in my work?
 - Is my work related directly to a current hot topic?
-- Have I provided solutions to some difficult problems?
+- Have I provided solutions to some difficult problems? <br/>
 Nếu câu trả lời cho tất cả là "có" thì chuẩn bị viết đăng tạp chí lớn, 1 trong số đó mà "Không" thì đăng tạp chí vớ vẩn thôi (Impact Factor thấp).
 ## Nhà phản biện, họ hỏi cái gì?
 - Bài báo có đủ dữ liệu mới/cái mới không?  __ __ __ __ __ __ __ *Does the paper contain sufficient new material?*
