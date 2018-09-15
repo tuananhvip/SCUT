@@ -4,25 +4,23 @@
  - **Nguyễn Tuấn Anh**, NT.Anh@tnut.edu.vn <br/>
   Nghiên cứu sinh trường ĐH Công nghệ Hoa Nam, Quảng châu, Trung Quốc, 2018  
 ## Mục Lục
--[Howtowriteasciencepaper?Cáchviếtmộtbàibáokhoahọc](how-to-write-a-science-paper-cách-viết-một-bài-báo-khoa-học) 
--[MụcLục](mục-lục) 
--[Bước1:Chuẩnbịtâmthếtrướckhiviếtbáo](bước-1-chuẩn-bị-tâm-thế-trước-khi-viết-báo) 
--[Trảlờicáccâuhỏisau:](trả-lời-các-câu-hỏi-sau) 
--[Nhàphảnbiện,họhỏicáigì?](nhà-phản-biện-họ-hỏi-cái-gì) 
--[Xemrankingcácjounalsởđâu?](xem-ranking-các-jounals-ở-đâu) 
--[Cácchuẩnbịkhác](các-chuẩn-bị-khác) 
--[Bước2:Thựcthi](bước-2-thực-thi) 
--[Cấutrúc:](cấu-trúc) 
--[Tittle](tittle) 
--[Cáchđặttên1bàibáo?](cách-đặt-tên-1-bài-báo) 
--[vídụ1](ví-dụ-1) 
--[Vídụ2](ví-dụ-2) 
--[Vídụ3](ví-dụ-3) 
--[Abstract](abstract) 
--[Introduction](introduction) 
--[Cáchviết:](cách-viết) 
-
----
+-[Howtowriteasciencepaper?Cáchviếtmộtbàibáokhoahọc](#how-to-write-a-science-paper-cách-viết-một-bài-báo-khoa-học) 
+-[MụcLục](#mục-lục) 
+-[Bước1:Chuẩnbịtâmthếtrướckhiviếtbáo](#bước-1-chuẩn-bị-tâm-thế-trước-khi-viết-báo) 
+-[Trảlờicáccâuhỏisau:](#trả-lời-các-câu-hỏi-sau) 
+-[Nhàphảnbiện,họhỏicáigì?](#nhà-phản-biện-họ-hỏi-cái-gì) 
+-[Xemrankingcácjounalsởđâu?](#xem-ranking-các-jounals-ở-đâu) 
+-[Cácchuẩnbịkhác](#các-chuẩn-bị-khác) 
+-[Bước2:Thựcthi](#bước-2-thực-thi) 
+-[Cấutrúc:](#cấu-trúc) 
+-[Tittle](#tittle) 
+-[Cáchđặttên1bàibáo?](#cách-đặt-tên-1-bài-báo) 
+-[vídụ1](#ví-dụ-1) 
+-[Vídụ2](#ví-dụ-2) 
+-[Vídụ3](#ví-dụ-3) 
+-[Abstract](#abstract) 
+-[Introduction](#introduction) 
+-[Cáchviết:](#cách-viết) 
 
 # Bước 1: Chuẩn bị tâm thế trước khi viết báo
 ## Trả lời các câu hỏi sau:
