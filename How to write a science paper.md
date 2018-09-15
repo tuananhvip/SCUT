@@ -21,13 +21,24 @@ Nếu câu trả lời cho tất cả là "có" thì chuẩn bị viết đăng 
 - Thông tin có trùng lặp không? dư thừa không? __ __ __ __ __ __  *are there information duplicated? Are they too many?*
 - Các trích dẫn trong văn bản có tham chiếu đủ không? __ __ __ __ *Are all references cited in the text included in the references list?*
 
+## Xem ranking các jounals ở đâu?
+Tại đây có thể xem được các loại tạp chí, ranking và lĩnh vực họ có thể xuất bản.
+- [Science Gateway](http://www.sciencegateway.org/rank/index.html) 
+- [Scimago Journal & Country Rank (SJR)](https://www.scimagojr.com/journalrank.php?category=1702&area=1700&type=j), 
+
+## Các chuẩn bị khác
+- Khi chọn được tạp chí nào rồi, thì vào download cái "Guide for Authors", in ra, đọc đi đọc lại, rất cần đấy
 
 # Bước 2: Thực thi
 ## Cấu trúc:
-Một bài báo khoa học gồm các phần sau:
+Một bài báo khoa học gồm các phần sau: IMRaD
   1. Tittle
   2. Abstract
-  3. Introduction
+  3. Introduction: What did you/others do? Why did you do it?
+  4. Methods: How did you do it?
+  5. Results: What did you find?
+     And
+  6. Discussion: What does it all mean?
   
 Trình bày nội dung: Nguyễn Tuấn Anh, Nghiên cứu sinh trường ĐH Công nghệ Hoa Nam, Quảng châu, Trung Quốc, 2018  
 ## Tittle  
