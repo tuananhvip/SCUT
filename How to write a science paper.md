@@ -1,7 +1,28 @@
 
 
-# How to write a science paper? Cách viết một bài báo khoa học
+# How to write a science paper? Cách viết một bài báo khoa học 
+# Bước 1: Chuẩn bị tâm thế
+##Trả lời các câu hỏi sau:
+- Have I done something new and interesting?
+- Is there anything challenging in my work?
+- Is my work related directly to a current hot topic?
+- Have I provided solutions to some difficult problems?
+Nếu câu trả lời cho tất cả là "có" thì chuẩn bị viết đăng tạp chí lớn, 1 trong số đó mà "Không" thì đăng tạp chí vớ vẩn thôi (Impact Factor thấp).
+## Nhà phản biện, họ hỏi cái gì?
+- Bài báo có đủ dữ liệu mới/cái mới không?  __ __ __ __ __ __ __ *Does the paper contain sufficient new material?*
+- Báo có đúng phạm vi của tạp chí không? __ __ __ __ __ __ __ __ *Is the topic within the scope of the journal?*
+- Phương pháp trình bày có ngắn gọn và cấu trúc có hợp lý không? *Is it presented concisely and well organized?*
+- Phương pháp và thí nghiệm có tái tạo lại được không? __ __  __ *Are the methods and experiments presented in the way that they can be replicated again?*
+- Các kết quả có được trình bày đầy đủ không? __ __ __ __ __ __ _ *Are the results presented adequately?*
+- Thảo luận có liên quan, ngắn gọn và được ghi chép đầy đủ không? *Is the discussion relevant, concise and well documented?*
+- Các kết luận có được hỗ trợ bởi dữ liệu đã trình bày không?__ _ *Are the conclusions supported by the data presented?*
+- Ngôn ngữ chấp nhận được không? __ __ __ __ __ __ __ __ __ __ __ *Is the language acceptable?*
+- số liệu, bảng đầy đủ? thiết kế tốt?  __ __ __ __ __ __ __ __ __ *Are figures and tables adequate and well designed?*
+- Thông tin có trùng lặp không? dư thừa không? __ __ __ __ __ __  *are there information duplicated? Are they too many?*
+- Các trích dẫn trong văn bản có tham chiếu đủ không? __ __ __ __ *Are all references cited in the text included in the references list?*
 
+
+# Bước 2: Thực thi
 ## Cấu trúc:
 Một bài báo khoa học gồm các phần sau:
   1. Tittle
