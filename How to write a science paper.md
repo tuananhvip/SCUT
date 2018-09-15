@@ -3,24 +3,25 @@
  Tổng hợp:  
  - **Nguyễn Tuấn Anh**, NT.Anh@tnut.edu.vn <br/>
   Nghiên cứu sinh trường ĐH Công nghệ Hoa Nam, Quảng châu, Trung Quốc, 2018  
-## Mục Lục
-- [How to write a science paper? Cách viết một bài báo khoa học](#how-to-write-a-science-paper-cách-viết-một-bài-báo-khoa-học)  
-   * [Mục Lục](#mục-lục)  
-- [Bước 1: Chuẩn bị tâm thế trước khi viết báo](#bước-1-chuẩn-bị-tâm-thế-trước-khi-viết-báo)  
-   * [Trả lời các câu hỏi sau:](#trả-lời-các-câu-hỏi-sau)  
-   * [Nhà phản biện, họ hỏi cái gì?](#nhà-phản-biện-họ-hỏi-cái-gì)  
-   * [Xem ranking các jounals ở đâu?](#xem-ranking-các-jounals-ở-đâu)  
-   * [Các chuẩn bị khác](#các-chuẩn-bị-khác)  
-- [Bước 2: Thực thi](#bước-2-thực-thi)  
-   * [Cấu trúc:](#cấu-trúc)  
-   * [Tittle](#tittle)  
-      + [Cách đặt tên 1 bài báo?](#cách-đặt-tên-1-bài-báo)  
-         - [ví dụ 1](#ví-dụ-1)  
-         - [Ví dụ 2](#ví-dụ-2)  
-         - [Ví dụ 3](#ví-dụ-3)  
-   * [Abstract](#abstract)  
-   * [Introduction](#introduction)  
-      + [Cách viết:](#cách-viết)  
+---
+## Mục lục
+- [How to write a science paper? Cách viết báo khoa học](#how-to-write-a-science-paper-cách-viết-báo-khoa-học)
+   * [Mục Lục](#mục-lục)
+- [Bước 1: Chuẩn bị tâm thế trước khi viết báo](#bước-1-chuẩn-bị-tâm-thế-trước-khi-viết-báo)
+   * [Trả lời các câu hỏi sau:](#trả-lời-các-câu-hỏi-sau)
+   * [Nhà phản biện, họ hỏi cái gì?](#nhà-phản-biện-họ-hỏi-cái-gì)
+   * [Xem ranking các jounals ở đâu?](#xem-ranking-các-jounals-ở-đâu)
+   * [Các chuẩn bị khác](#các-chuẩn-bị-khác)
+- [Bước 2: Thực thi](#bước-2-thực-thi)
+   * [Cấu trúc:](#cấu-trúc)
+   * [Tittle](#tittle)
+      + [Cách đặt tên 1 bài báo?](#cách-đặt-tên-1-bài-báo)
+         - [ví dụ 1](#ví-dụ-1)
+         - [Ví dụ 2](#ví-dụ-2)
+         - [Ví dụ 3](#ví-dụ-3)
+   * [Abstract](#abstract)
+   * [Introduction](#introduction)
+      + [Cách viết:](#cách-viết)
 ---
 
 # Bước 1: Chuẩn bị tâm thế trước khi viết báo
@@ -145,22 +146,6 @@ Phải trả lời cho bằng được câu hỏi: __Tại sao làm nghiên cứ
 
 
 
-- [Các thông tin vô cùng quan trọng khi học tại SCUT](README.md?#các-thông-tin-vô-cùng-quan-trọng-khi-học-tại-scut)  
-   * [Mục lục](README.md?#mục-lục)  
-- [Chung các ngành, các cấp bậc](README.md?#chung-các-ngành-các-cấp-bậc)  
-   * [Các phần mềm cần thiết](README.md?#các-phần-mềm-cần-thiết)  
-   * [Kho tài liệu tham khảo, báo chí đã được mua](README.md?#kho-tài-liệu-tham-khảo-báo-chí-đã-được-mua)  
-   * [Tài liệu có thể download luôn](README.md?#tài-liệu-có-thể-download-luôn)  
-- [Tiến sỹ](README.md?#tiến-sỹ)  
-   * [Nhập học](README.md?#nhập-học)  
-   * [Học Tiếng](README.md?#học-tiếng)  
-   * [Bảo vệ đề cương](README.md?#bảo-vệ-đề-cương)  
-   * [Viết báo](README.md?#viết-báo)  
-   * [Viết Luận án](README.md?#viết-luận-án)  
-- [Thạc sỹ](README.md?#thạc-sỹ)  
-- [Đại học](README.md?#đại-học)  
-- [Học tiếng](README.md?#học-tiếng)  
-- [Khác](README.md?#khác)  
----
+ 
 
 
