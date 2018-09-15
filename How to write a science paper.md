@@ -74,7 +74,7 @@ Người đánh giá sẽ kiểm tra xem tiêu đề có cụ thể hay không v
 
 - Original title: Fabrication of carbon/CdS coaxial nanofibers displaying optical and electrical properties via electrospinning carbon
 - Revised title: Electrospinning of carbon/CdS coaxial nanofibers with optical and electrical properties
-- Comments: "English needs help. The title is nonsense. All materials have properties of all varieties.  You could examine my hair for its electrical and optical properties! You MUST be specific. I haven't read the paper but I suspect there is something special about these properties, otherwise why would you be reporting them?" – the Editor-in-Chief..
+- Comments: "English needs help. The title is nonsense. All materials have properties of all varieties.  You could examine my hair for its electrical and optical properties! You MUST be specific. I haven't read the paper but I suspect there is something special about these properties, otherwise why would you be reporting them?" – the Editor-in-Chief.<br/>
 Cố gắng tránh loại phản ứng này!
 
 ## Abstract
