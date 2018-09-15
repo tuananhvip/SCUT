@@ -145,7 +145,7 @@ Phải trả lời cho bằng được câu hỏi: __Tại sao làm nghiên cứ
 
 
 
-[link to other page](#README.md?#chung-c%C3%A1c-ng%C3%A0nh-c%C3%A1c-c%E1%BA%A5p-b%E1%BA%ADc)
+[link to other page](README.md?#chung-c%C3%A1c-ng%C3%A0nh-c%C3%A1c-c%E1%BA%A5p-b%E1%BA%ADc)
 
 
 
