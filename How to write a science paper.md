@@ -35,14 +35,20 @@ Tại đây có thể xem được các loại tạp chí, ranking và lĩnh v�
 
 # Bước 2: Thực thi
 ## Cấu trúc:
-Một bài báo khoa học gồm các phần sau: IMRaD
-  1. Tittle
-  2. Abstract
-  3. Introduction: What did you/others do? Why did you do it?
-  4. Methods: How did you do it?
-  5. Results: What did you find?
+__Length of the manuscript__
+Again, look at the journal's Guide for Authors, but an ideal length for a manuscript is 25 to 40 pages, double spaced, including essential data only. Here are some general guidelines:
+__Một bài báo khoa học gồm các phần sau: IMRaD__
+  1. Tittle: Short and informative
+  2. Abstract: 1 paragraph (<250 words)
+  3. Introduction: What did you/others do? Why did you do it?: 1.5-2 pages
+  4. Methods: How did you do it?: 2-3 pages
+  5. Results: What did you find?: 6-8 pages
      And
-  6. Discussion: What does it all mean?
+  6. Discussion: What does it all mean?: 4-6 pages
+  7. Conclusion: 1 paragraph<br/>
+  Figures: 6-8 (one per page)<br/>
+  Tables: 1-3 (one per page)<br/>
+  References: 20-50 papers (2-4 pages)<br/>
 
 ## Tittle  
 Cách đặt tên 1 bài báo?
