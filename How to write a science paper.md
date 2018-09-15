@@ -35,8 +35,8 @@ Tại đây có thể xem được các loại tạp chí, ranking và lĩnh v�
 
 # Bước 2: Thực thi
 ## Cấu trúc:
-__Length of the manuscript__
-Again, look at the journal's Guide for Authors, but an ideal length for a manuscript is 25 to 40 pages, double spaced, including essential data only. Here are some general guidelines:
+__Length of the manuscript__ <br/>
+Again, look at the journal's Guide for Authors, but an ideal length for a manuscript is 25 to 40 pages, double spaced, including essential data only. Here are some general guidelines:<br/>
 __Một bài báo khoa học gồm các phần sau: IMRaD__
   1. Tittle: Short and informative
   2. Abstract: 1 paragraph (<250 words)
