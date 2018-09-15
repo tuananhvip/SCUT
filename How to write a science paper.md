@@ -5,7 +5,7 @@
   Nghiên cứu sinh trường ĐH Công nghệ Hoa Nam, Quảng châu, Trung Quốc, 2018  
 ## Mục Lục
 - [How to write a science paper? Cách viết một bài báo khoa học](#how-to-write-a-science-paper--c-ch-vi-t-m-t-b-i-b-o-khoa-h-c)
-- [Bước 1: Chuẩn bị tâm thế](#Chuẩn-bị-tâm-thế-trước-khi-viết-báo)
+- [Bước 1: Chuẩn bị tâm thế](#Bước-1-Chuẩn-bị-tâm-thế-trước-khi-viết-báo)
   * [Trả lời các câu hỏi sau:](#tr--l-i-c-c-c-u-h-i-sau-)
   * [Nhà phản biện, họ hỏi cái gì?](#nh--ph-n-bi-n--h--h-i-c-i-g--)
   * [Xem ranking các jounals ở đâu?](#xem-ranking-c-c-jounals-----u-)
