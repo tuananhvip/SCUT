@@ -20,7 +20,8 @@
          - [Ví dụ 3](#ví-dụ-3)  
    * [Abstract](#abstract)  
    * [Introduction](#introduction)  
-      + [Cách viết:](#cách-viết) 
+      + [Cách viết:](#cách-viết)  
+---
 
 # Bước 1: Chuẩn bị tâm thế trước khi viết báo
 ## Trả lời các câu hỏi sau:
