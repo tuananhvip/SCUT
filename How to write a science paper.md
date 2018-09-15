@@ -51,7 +51,32 @@ __Một bài báo khoa học gồm các phần sau: IMRaD__
   References: 20-50 papers (2-4 pages)<br/>
 
 ## Tittle  
-Cách đặt tên 1 bài báo?
+### Cách đặt tên 1 bài báo?
+Tiêu đề phải giải thích bài báo nói chung là gì. Đây là cơ hội đầu tiên (và có lẽ là duy nhất) của bạn để thu hút sự chú ý của người đọc. Bằng cách này, hãy nhớ rằng các độc giả đầu tiên là biên tập viên và trọng tài. Ngoài ra, độc giả là những tác giả tiềm năng sẽ trích dẫn bài viết của bạn, vì vậy ấn tượng đầu tiên là mạnh mẽ!
+
+Tất cả chúng ta đều bị tràn ngập bởi các ấn phẩm, và độc giả không có thời gian để đọc tất cả các sản phẩm khoa học. Chúng phải được chọn lọc và lựa chọn này thường xuất phát từ tiêu đề.
+
+Người đánh giá sẽ kiểm tra xem tiêu đề có cụ thể hay không và liệu nó có phản ánh nội dung của bản thảo hay không. Biên tập viên ghét danh hiệu không có ý nghĩa hoặc không đại diện cho vấn đề một cách đầy đủ. Do đó, giữ cho tiêu đề thông tin và ngắn gọn (rõ ràng, mô tả và không quá dài). Bạn phải tránh thuật ngữ kỹ thuật và chữ viết tắt, nếu có thể. Điều này là do bạn cần thu hút độc giả lớn nhất có thể. Dành thời gian để suy nghĩ về tiêu đề và thảo luận với các đồng tác giả của bạn.
+
+Ở đây bạn có thể thấy một số ví dụ về tiêu đề gốc và cách chúng được thay đổi sau khi đánh giá và nhận xét cho chúng:
+#### ví dụ 1
+
+- Tiêu đề gốc: Quan sát sơ bộ về tác động của độ mặn đối với sự phân bố cộng đồng sinh vật đáy trong hệ thống cửa sông, ở Biển Bắc
+- Tiêu đề sửa đổi: Ảnh hưởng của độ mặn đối với phân bố sinh vật đáy trong cửa sông Scheldt (Biển Bắc)
+- Bình luận: Tiêu đề dài khiến người đọc phân tâm. Xóa tất cả các dư thừa như "nghiên cứu trên", "bản chất của", v.v. Không bao giờ sử dụng các biểu thức như "sơ bộ". Chính xác.
+
+#### Ví dụ 2
+
+- Tiêu đề gốc: Hành động kháng sinh trên vi khuẩn
+- Tiêu đề sửa đổi: Ức chế sự tăng trưởng của Mycobacterium tuberculosis bởi streptomycin
+- Nhận xét: Tiêu đề phải cụ thể. Hãy suy nghĩ về "làm thế nào tôi sẽ tìm kiếm thông tin này" khi bạn thiết kế tiêu đề.
+#### Ví dụ 3
+
+- Original title: Fabrication of carbon/CdS coaxial nanofibers displaying optical and electrical properties via electrospinning carbon
+- Revised title: Electrospinning of carbon/CdS coaxial nanofibers with optical and electrical properties
+- Comments: "English needs help. The title is nonsense. All materials have properties of all varieties.  You could examine my hair for its electrical and optical properties! You MUST be specific. I haven't read the paper but I suspect there is something special about these properties, otherwise why would you be reporting them?" – the Editor-in-Chief..
+Cố gắng tránh loại phản ứng này!
+
 ## Abstract
 Cần phải list ra được:
   1. Cái mới: bài báo có bao nhiêu điểm mới? viết ra
