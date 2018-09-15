@@ -6,7 +6,7 @@
   Nghiên cứu sinh trường ĐH Công nghệ Hoa Nam, Quảng châu, Trung Quốc, 2018  
  
 # Bước 1: Chuẩn bị tâm thế
-##Trả lời các câu hỏi sau:
+## Trả lời các câu hỏi sau:
 - Have I done something new and interesting?
 - Is there anything challenging in my work?
 - Is my work related directly to a current hot topic?
