@@ -1,7 +1,9 @@
 
 
 # How to write a science paper? Cách viết một bài báo khoa học 
-Tổng hợp và Trình bày nội dung: Nguyễn Tuấn Anh, Nghiên cứu sinh trường ĐH Công nghệ Hoa Nam, Quảng châu, Trung Quốc, 2018  
+Tổng hợp: 
+**Nguyễn Tuấn Anh**, NT.Anh@tnut.edu.vn
+Nghiên cứu sinh trường ĐH Công nghệ Hoa Nam, Quảng châu, Trung Quốc, 2018  
 # Bước 1: Chuẩn bị tâm thế
 ##Trả lời các câu hỏi sau:
 - Have I done something new and interesting?
