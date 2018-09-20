@@ -5,7 +5,7 @@
   Nghiên cứu sinh trường ĐH Công nghệ Hoa Nam, Quảng châu, Trung Quốc, 2018  
 
 
-<details><summary>Mục lục</summary>
+<details><summary>Mục lục (Bấm để xem)</summary>
 <ul>
 <ul><li><a href=#bước-1-chuẩn-bị-tâm-thế-trước-khi-viết-báo>Bước 1: Chuẩn bị tâm thế trước khi viết báo</a></li>
 <ul><li><a href=#trả-lời-các-câu-hỏi-sau>Trả lời các câu hỏi sau:</a></li>
