@@ -3,26 +3,28 @@
  Tổng hợp:  
  - **Nguyễn Tuấn Anh**, NT.Anh@tnut.edu.vn <br/>
   Nghiên cứu sinh trường ĐH Công nghệ Hoa Nam, Quảng châu, Trung Quốc, 2018  
----
-## Mục lục
-- [How to write a science paper? Cách viết báo khoa học](#how-to-write-a-science-paper-cách-viết-báo-khoa-học)
-   * [Mục Lục](#mục-lục)
-- [Bước 1: Chuẩn bị tâm thế trước khi viết báo](#bước-1-chuẩn-bị-tâm-thế-trước-khi-viết-báo)
-   * [Trả lời các câu hỏi sau:](#trả-lời-các-câu-hỏi-sau)
-   * [Nhà phản biện, họ hỏi cái gì?](#nhà-phản-biện-họ-hỏi-cái-gì)
-   * [Xem ranking các jounals ở đâu?](#xem-ranking-các-jounals-ở-đâu)
-   * [Các chuẩn bị khác](#các-chuẩn-bị-khác)
-- [Bước 2: Thực thi](#bước-2-thực-thi)
-   * [Cấu trúc:](#cấu-trúc)
-   * [Tittle](#tittle)
-      + [Cách đặt tên 1 bài báo?](#cách-đặt-tên-1-bài-báo)
-         - [ví dụ 1](#ví-dụ-1)
-         - [Ví dụ 2](#ví-dụ-2)
-         - [Ví dụ 3](#ví-dụ-3)
-   * [Abstract](#abstract)
-   * [Introduction](#introduction)
-      + [Cách viết:](#cách-viết)
----
+
+
+<details><summary>Mục lục</summary>
+<ul>
+<ul><li><a href=#bước-1-chuẩn-bị-tâm-thế-trước-khi-viết-báo>Bước 1: Chuẩn bị tâm thế trước khi viết báo</a></li>
+<ul><li><a href=#trả-lời-các-câu-hỏi-sau>Trả lời các câu hỏi sau:</a></li>
+   <li><a href=#nhà-phản-biện-họ-hỏi-cái-gì>Nhà phản biện, họ hỏi cái gì?</a></li>
+   <li><a href=#xem-ranking-các-jounals-ở-đâu>Xem ranking các jounals ở đâu?</a></li>
+   <li><a href=#các-chuẩn-bị-khác>Các chuẩn bị khác</a></li>
+</ul><li><a href=#bước-2-thực-thi>Bước 2: Thực thi</a></li>
+<ul><li><a href=#cấu-trúc>Cấu trúc:</a></li>
+   <li><a href=#tittle>Tittle</a></li>
+<ul><li><a href=#cách-đặt-tên-1-bài-báo>Cách đặt tên 1 bài báo?</a></li>
+<ul><li><a href=#ví-dụ-1>ví dụ 1</a></li>
+         <li><a href=#ví-dụ-2>Ví dụ 2</a></li>
+         <li><a href=#ví-dụ-3>Ví dụ 3</a></li>
+</ul></ul><li><a href=#abstract>Abstract</a></li>
+   <li><a href=#introduction>Introduction</a></li>
+<ul><li><a href=#cách-viết>Cách viết:</a></li>
+</ul>
+</details><br/>
+
 
 # Bước 1: Chuẩn bị tâm thế trước khi viết báo
 ## Trả lời các câu hỏi sau:
